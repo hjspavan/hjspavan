@@ -1,6 +1,6 @@
 ## Hi there, I'm Henrique Pavan
 
-Back-end focused Systems Development student passionate about building scalable applications and solving real-world problems.
+Back-end focused Systems Development student about building scalable applications and solving real-world problems.
 Experience with Python, JavaScript, SQL, and APIs, along with hands-on projects involving data structures and system integration.
 Strong interest in cybersecurity and continuously improving through practical development.
 
