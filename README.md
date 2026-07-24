@@ -49,15 +49,6 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
 
 ---
 
-## 📌 Featured Projects
-
-Coming soon...
-
-> Here you'll find projects focused on Java, Spring Boot, REST APIs, databases, and software architecture.
-
----
-
-
 ## 🌎 Connect with Me
 
 <p align="left">
