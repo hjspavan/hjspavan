@@ -32,6 +32,8 @@ Strong interest in cybersecurity and continuously improving through practical de
     <a href = "mailto:hjspavan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
+  
+###
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -40,8 +42,4 @@ Strong interest in cybersecurity and continuously improving through practical de
 
 ###
   
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+
