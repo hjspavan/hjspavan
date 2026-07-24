@@ -44,7 +44,7 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
 </p>
 
 ---
