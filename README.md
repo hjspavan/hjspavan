@@ -7,8 +7,8 @@ Strong interest in cybersecurity and continuously improving through practical de
 ###
 
   - 🚀 Currently seeking a back-end or software development internship opportunity
-  - 📗 Systems Development Student
-  - 🌱 I’m currently learning Java
+  - 📗 Systems Development Student and Computer science
+  - 🌱 I’m currently learning Java and Python
 
 
 ## Tech stack
