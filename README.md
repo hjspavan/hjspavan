@@ -31,6 +31,14 @@ Strong interest in cybersecurity and continuously improving through practical de
 <a href="https://www.linkedin.com/in/hjspavan/-45875016a"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:hjspavan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/github-contribution-grid-snake-dark.svg">
