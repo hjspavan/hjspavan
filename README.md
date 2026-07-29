@@ -21,10 +21,9 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 <br>
 
-[<div align="center">
-  <img src="https://media.tenor.com/6Gk0S8S1G6QAAAAd/mario-pixel-art-gaming-room.gif" width="650" alt="Mario coding room"/>
-</div>](https://media.tenor.com/6Gk0S8S1G6QAAAAd/mario-pixel-art-gaming-room.gif%22%20width=%22650%22%20alt=%22Mario%20coding%20room)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650"/>
+</div>
 ---
 
 # 🚀 Currently Working On
