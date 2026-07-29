@@ -1,31 +1,45 @@
+```md
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=13ACF7&width=435&lines=Hi+there%2C+I'm+Henrique+Pavan;Software+Development+%26+Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=13ACF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Henrique+Pavan;Back-end+Developer+%7C+Computer+Science+Student" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Back-end focused **Software Development & Computer Science** student about building scalable applications and solving real-world problems.
+I'm a **Back-end focused Software Development & Computer Science student** passionate about building scalable, secure, and maintainable applications.
 
-I have experience with **Java, Python, JavaScript, SQL, REST APIs**, and database development through hands-on academic and personal projects.
+I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, Python, JavaScript, SQL, and REST APIs**. I'm constantly improving my skills in **Software Architecture, Cloud Computing, and Cybersecurity**, always striving to write clean, efficient, and maintainable code.
 
-I'm constantly improving my skills in **Back-end Development, Software Architecture, Cloud Computing, and Cybersecurity**, always aiming to write clean, maintainable, and efficient code.
+- 🚀 Looking for a **Back-end** or **Software Development Internship**
+- 🎓 Software Development & Computer Science Student
+- 🌱 Currently learning **Spring Boot, Docker, AWS & Software Architecture**
+- 💡 Interested in **Back-end Development, Cloud Computing & Cybersecurity**
 
-- 🚀 Currently seeking a **Back-end** or **Software Development Internship**
-- 🎓 Studying **Software Development** & **Computer Science**
-- 🌱 Currently learning **Spring Boot, Docker, AWS, and Software Architecture**
-- 💡 Interested in **Back-end Development**, **Cloud**, and **Cybersecurity**
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650"/>
 </div>
 
-###
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
+
+---
+
+# 🚀 Currently Working On
+
+- Building REST APIs with Spring Boot
+- Learning Docker and AWS
+- Improving Software Architecture knowledge
+- Practicing Data Structures & Algorithms
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -33,10 +47,16 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Frameworks & Libraries
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Database
@@ -45,7 +65,7 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### Tools & Technologies
+### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
@@ -53,7 +73,17 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
 
 ---
 
-## 🌎 Connect with Me
+# 🎯 2026 Goals
+
+- ✅ Become a stronger Back-end Developer
+- 🚀 Build more production-ready applications
+- ☁️ Improve my AWS & Cloud skills
+- 🤝 Contribute to Open Source projects
+- 💼 Land a Back-end Internship
+
+---
+
+# 🌎 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hjspavan/" target="_blank">
@@ -67,7 +97,7 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
 
 ---
 
-##  Contribution Graph
+# 🟩 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph-dark.svg">
@@ -77,3 +107,11 @@ I'm constantly improving my skills in **Back-end Development, Software Architect
 
 ---
 
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+Feel free to connect with me or check out my repositories.
+
+</div>
+```
