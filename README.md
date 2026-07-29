@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Henrique Pavan 👋
+# Hi there, I'm Henrique Pavan 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&pause=1000&color=13ACF7&center=true&vCenter=true&width=700&lines=Back-end+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python" alt="Typing SVG"/>
 
@@ -94,6 +94,12 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 ---
 
 <div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hjspavan/hjspavan/output/pacman-contribution-graph.svg">
+</picture>
 
 ### ⭐ Thanks for visiting my profile!
 
