@@ -21,9 +21,9 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 <br>
 
-<div align="center">
+[<div align="center">
   <img src="https://media.tenor.com/6Gk0S8S1G6QAAAAd/mario-pixel-art-gaming-room.gif" width="650" alt="Mario coding room"/>
-</div>
+</div>](https://media.tenor.com/6Gk0S8S1G6QAAAAd/mario-pixel-art-gaming-room.gif%22%20width=%22650%22%20alt=%22Mario%20coding%20room)
 
 ---
 
