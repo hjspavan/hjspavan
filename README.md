@@ -29,10 +29,10 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 # 🚀 Currently Working On
 
- 🔹 Building REST APIs with Spring Boot
- 🔹 Learning Docker & AWS
- 🔹 Improving Software Architecture knowledge
- 🔹 Practicing Data Structures & Algorithms
+ - 🔹 Building REST APIs with Spring Boot
+ - 🔹 Learning Docker & AWS
+ - 🔹 Improving Software Architecture knowledge
+ - 🔹 Practicing Data Structures & Algorithms
 
 ---
 
