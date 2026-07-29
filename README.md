@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Back-end focused Software Development & Computer Science student** passionate about building scalable, secure, and maintainable applications.
+I'm a **Back-end focused Software Development & Computer Science student** about building scalable, secure, and maintainable applications.
 
 I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, Python, JavaScript, SQL, and REST APIs**. I'm constantly improving my skills in **Software Architecture, Cloud Computing, and Cybersecurity**, always striving to write clean, efficient, and maintainable code.
 
