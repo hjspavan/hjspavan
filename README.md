@@ -1,9 +1,8 @@
-```md
 <div align="center">
 
 # Hi there, I'm Henrique Pavan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=13ACF7&center=true&vCenter=true&width=700&lines=Back-end+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&pause=1000&color=13ACF7&center=true&vCenter=true&width=700&lines=Back-end+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python" alt="Typing SVG"/>
 
 </div>
 
@@ -23,7 +22,7 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="Coding Animation"/>
+  <img src="https://media.tenor.com/6Gk0S8S1G6QAAAAd/mario-pixel-art-gaming-room.gif" width="650" alt="Mario coding room"/>
 </div>
 
 ---
@@ -39,33 +38,33 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### Database
+### 🗄️ Database
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
 </p>
 
@@ -85,25 +84,13 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hjspavan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:hjspavan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-# 🟩 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph.svg">
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/hjspavan/hjspavan/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -111,7 +98,8 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to connect with me or check out my repositories.
+Feel free to connect with me and check out my repositories.
+
+![](https://komarev.com/ghpvc/?username=hjspavan&color=blue&style=for-the-badge)
 
 </div>
-```
