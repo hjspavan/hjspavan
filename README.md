@@ -26,10 +26,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 ---
 
-# 🚀 Featured Projects
-
----
-
 # 🚀 Currently Working On
 
 - Building REST APIs with Spring Boot
