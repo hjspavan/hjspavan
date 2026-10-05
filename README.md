@@ -14,10 +14,10 @@ I'm a **Back-end focused Software Development & Computer Science student** about
 
 I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, Python, JavaScript, SQL, and REST APIs**. I'm constantly improving my skills in **Software Architecture, Cloud Computing, and Cybersecurity**, always striving to write clean, efficient, and maintainable code.
 
-- 🚀 Looking for a **Back-end** or **Software Development Internship**
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Spring Boot, Docker, AWS & Software Architecture**
-- 💡 Interested in **Back-end Development, Cloud Computing & Cybersecurity**
+-  Looking for a **Back-end** or **Software Development Internship**
+-  Computer Science Student
+-  Currently learning **Spring Boot, Docker, AWS & Software Architecture**
+-  Interested in **Back-end Development, Cloud Computing & Cybersecurity**
 
 <br>
 
@@ -72,11 +72,11 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 # 🎯 Goals for 2026
 
-- ✅ Become a stronger Back-end Developer
-- 🚀 Build production-ready applications
-- ☁️ Improve my AWS & Cloud skills
-- 🤝 Contribute to Open Source
-- 💼 Land a Back-end Internship
+-  Become a stronger Back-end Developer
+-  Build production-ready applications
+-  Improve my AWS & Cloud skills
+-  Contribute to Open Source
+-  Land a Back-end Internship
 
 ---
 
