@@ -8,7 +8,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a **Back-end focused Software Development & Computer Science student** about building scalable, secure, and maintainable applications.
 
@@ -29,7 +29,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 # 🚀 Currently Working On
 
- - 🔹 Building REST APIs with Spring Boot
  - 🔹 Learning Docker & AWS
  - 🔹 Improving Software Architecture knowledge
  - 🔹 Practicing Data Structures & Algorithms
@@ -47,13 +46,7 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### 🗄️ Database
@@ -65,7 +58,7 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode" />
 </p>
 
 ---
