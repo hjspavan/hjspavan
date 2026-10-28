@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&pause=1000&color=13ACF7&center=true&vCenter=true&width=700&lines=Back-end+Developer;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+Python" alt="Typing SVG"/>
 
 </div>
-
 ---
 
 # About Me
