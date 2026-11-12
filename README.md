@@ -6,10 +6,8 @@
 
 </div>
 
----
 
 # About Me
-
 I'm a **Back-end focused Software Development & Computer Science student** about building scalable, secure, and maintainable applications.
 
 I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, Python, JavaScript, SQL, and REST APIs**. I'm constantly improving my skills in **Software Architecture, Cloud Computing, and Cybersecurity**, always striving to write clean, efficient, and maintainable code.
@@ -18,7 +16,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 -  Computer Science Student
 -  Currently learning **Spring Boot, Docker, AWS & Software Architecture**
 -  Interested in **Back-end Development, Cloud Computing & Cybersecurity**
-
 <br>
 
 <div align="center">
@@ -53,7 +50,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
   <img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode" />
 </p>
 
----
 
 # 🌎 Connect with Me
 
@@ -67,7 +63,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
   </a>
 </p>
 
----
 
 <div align="center">
   
