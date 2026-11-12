@@ -24,7 +24,7 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 ---
 
-
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
