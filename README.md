@@ -63,16 +63,6 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 ---
 
-# 🎯 Goals for 2026
-
--  Become a stronger Back-end Developer
--  Build production-ready applications
--  Improve my AWS & Cloud skills
--  Contribute to Open Source
--  Land a Back-end Internship
-
----
-
 # 🌎 Connect with Me
 
 <p align="left">
