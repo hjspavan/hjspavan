@@ -29,9 +29,9 @@ I enjoy transforming ideas into real-world solutions using **Java, Spring Boot, 
 
 # 🚀 Currently Working On
 
- - 🔹 Learning Docker & AWS
- - 🔹 Improving Software Architecture knowledge
- - 🔹 Practicing Data Structures & Algorithms
+ -  Learning Docker & AWS
+ -  Improving Software Architecture knowledge
+ -  Practicing Data Structures & Algorithms
 
 ---
 
